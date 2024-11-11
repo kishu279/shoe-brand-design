@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+#login_button {
+    background-color: red;
+    color: white;
+    height: 31px;
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+#logo_image {
+    height: 50px;
+    width: 70px;
+    margin-top: 5px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+#links {
+    display : flex;
+    justify-content: space-around;
+    width : 300px;
+
+    font-family: "Fira Code", monospace;
+    font-weight: 900;
+}
+
+#hero {
+    width: 70%;
+    margin-top: 50px;
+    margin-left: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#left {
+    width: 595px;
+    height: 613px;
+}
+
+#right {
+    width: 595px;
+    height: 613px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#main_img {
+    height: 513px;
+    width: 495px;
+}
+
+h1 {
+    height: 313px;
+    margin-top: 0px;
+    font-family: "Poppins", sans-serif;
+    font-size: 108px;
+    line-height: 102px;
+    font-weight: 900;
+}
+
+.left_para {
+    height: 91px;
+    width: 404px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    line-height: auto;
+    font-weight: 300;
+}
+
+#app-buttons {
+    display: flex;
+    width: 331px;
+    height: 91px;
+    justify-content: space-between;
+
+}
+
+#shop_button {
+    background-color: red;
+    color: white;
+    height: 41px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-weight: 600;
+
+}
+
+#category_button{
+    background-color: white;
+    color: black;
+    height: 41px;
+    width: 141px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-weight: 600;
+    border: 2px solid black;
+}
