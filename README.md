@@ -21,7 +21,17 @@ In this project, I focused on creating a visually appealing brand design, emphas
 
 To view the brand design:
 
-1. Clone this repository: 
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/kishu279/shoe-brand-design.git
+
+   ```
+
+2. For more resources this is the actual design Link from figma
+
+   https://www.figma.com/design/qTHicKW4BtJlerlBDIWafQ/Learn-React-with-10-Projects-(Copy)?node-id=0-1&t=fATck9m54iwMf4ds-1
+
+### ✨ NOTE
+
+Taught by Lord Subh 💀
